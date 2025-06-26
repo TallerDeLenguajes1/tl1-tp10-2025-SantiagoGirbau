@@ -1,0 +1,15 @@
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\bin\Debug\net8.0\Tareas.exe
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\bin\Debug\net8.0\Tareas.deps.json
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\bin\Debug\net8.0\Tareas.runtimeconfig.json
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\bin\Debug\net8.0\Tareas.dll
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\bin\Debug\net8.0\Tareas.pdb
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\obj\Debug\net8.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\obj\Debug\net8.0\Tareas.AssemblyInfoInputs.cache
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\obj\Debug\net8.0\Tareas.AssemblyInfo.cs
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\obj\Debug\net8.0\Tareas.csproj.CoreCompileInputs.cache
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\obj\Debug\net8.0\Tareas.sourcelink.json
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\obj\Debug\net8.0\Tareas.dll
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\obj\Debug\net8.0\refint\Tareas.dll
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\obj\Debug\net8.0\Tareas.pdb
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\obj\Debug\net8.0\Tareas.genruntimeconfig.cache
+A:\Santiago\Facultad\Informática\Tercero\Taller1\TP10\tl1-tp10-2025-SantiagoGirbau\Tareas\obj\Debug\net8.0\ref\Tareas.dll
